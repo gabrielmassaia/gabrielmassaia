@@ -1,5 +1,5 @@
 ### Hi there, I'm Gabriel Massaia 👋
-- 🔭 i'm currently studying Python
+- 🔭 i'm currently studying JavaScript
 - 🌱 i'm  studying analysis and sistems development
 - 🛎️ i'm from Brazil
 
