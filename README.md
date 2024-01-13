@@ -1,5 +1,5 @@
 ### Hi there, I'm Gabriel Massaia 👋
-- 🔭 i'm currently studying JavaScriptn React,js and Next.js
+- 🔭 i'm currently studying JavaScript, React,js and Next.js
 - 🌱 i'm  studying analysis and sistems development
 - 🛎️ i'm from Brazil
 - 🔭 UI and UX with Figma
