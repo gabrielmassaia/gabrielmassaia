@@ -1,7 +1,8 @@
 ### Hi there, I'm Gabriel Massaia 👋
-- 🔭 i'm currently studying JavaScript
+- 🔭 i'm currently studying JavaScriptn React,js and Next.js
 - 🌱 i'm  studying analysis and sistems development
 - 🛎️ i'm from Brazil
+- 🔭 UI and UX with Figma
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielmassaia&show_icons=true&theme=radical)](https://github.com/gabrielmassaia/github-readme-stats)
 
