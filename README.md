@@ -1,6 +1,6 @@
 ### Hi there, I'm Gabriel Massaia 👋
-- 🔭 i'm currently studying JavaScript
-- 🌱 i'm  studying analysis and sistems development
+- 🔭 i'm currently studying JS, TS, Node, C, SQL
+-  🌱 i'm  studying software engineering
 - 🛎️ i'm from Brazil
 - 🔭 UI and UX with Figma
 
