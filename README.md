@@ -9,6 +9,12 @@
   <img align="right" height="180em" [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmassaia&theme=react&layout=compact)](https://github.com/gabrielmassaia/github-readme-stats)
 </div>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielmassaia&show_icons=true&theme=react)](https://github.com/gabrielmassaia/github-readme-stats)
+last year
+
+Update README.md
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmassaia&theme=react&layout=compact)](https://github.com/gabrielmassaia/github-readme-stats)
+
 ##
 
 <div  align="center"> 
