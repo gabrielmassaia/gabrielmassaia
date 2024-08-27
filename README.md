@@ -4,9 +4,9 @@
 - 🛎️ i'm from Brazil
 - 🔭 UI and UX with Figma
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielmassaia&show_icons=true&theme=radical)](https://github.com/gabrielmassaia/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielmassaia&show_icons=true&theme=react)](https://github.com/gabrielmassaia/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmassaia&theme=radical&layout=compact)](https://github.com/gabrielmassaia/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmassaia&theme=react&layout=compact)](https://github.com/gabrielmassaia/github-readme-stats)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Gabe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
