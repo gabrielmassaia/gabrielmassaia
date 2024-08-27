@@ -4,6 +4,11 @@
 - 🛎️ i'm from Brazil
 - 🔭 UI and UX with Figma
 
+<div>
+  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=LuigiGF&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuigiGF&layout=compact&langs_count=16&theme=react"/>
+</div>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielmassaia&show_icons=true&theme=react)](https://github.com/gabrielmassaia/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmassaia&theme=react&layout=compact)](https://github.com/gabrielmassaia/github-readme-stats)
