@@ -1,13 +1,14 @@
-### Hi there, I'm Gabriel Massaia 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-- 🔭 i'm currently studying JS, TS, Node, C, SQL
--  🌱 i'm  studying software engineering
-- 🛎️ i'm from Brazil
-- 🔭 UI and UX with Figma
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=Whats'up!,+I'm+Gabriel+Massaia+de+Oliveira;I'm+20+years+old;I+am+from+Corupá,+SC;I'm+studying+Software+Engineering;Be+Welcome!+:%29)](https://git.io/typing-svg) 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielmassaia&show_icons=true&theme=react)](https://github.com/gabrielmassaia/github-readme-stats)
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=gabrielmassaia&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Gabriel M. de Oliveira github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmassaia&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmassaia&theme=react&layout=compact)](https://github.com/gabrielmassaia/github-readme-stats)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gabrielmassaia&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 
 <div  align="center"> 
   <div style="display: inline_block"><br>
@@ -25,6 +26,13 @@
   <a href = "mailto:gabrielmassaia50@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in//gabriel-massaia-8710b1222/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{gabrielmassaia}/count.svg" /></p> 
+<br></div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielmassaia/gabrielmassaia/output/github-contribution-grid-snake-dark.svg">
