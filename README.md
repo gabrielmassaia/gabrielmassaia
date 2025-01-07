@@ -15,7 +15,7 @@
     <img align="left" height="250" alt="coding-time" src="code.gif">
     <h1 align="center">Skills</h1>
    <div align="center" >
-  <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,git,typescript" />
+  <img src="https://skillicons.dev/icons?i=angular,,bootstrap,html,css,vscode,github,figma,git,typescript,c#," />
 </div>
    </div>
 <div> 
