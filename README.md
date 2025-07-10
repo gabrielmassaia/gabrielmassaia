@@ -1,5 +1,3 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00bfbf&size=30&center=true&vCenter=true&width=1000&lines=Hi+there!+I'm+Gabriel+Massaia;FullStack+Developer;Software+Engineering+Student;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
 
 ---
@@ -40,5 +38,3 @@ I’m a Full Stack Developer passionate about technology, creative problem solvi
 </p>
 
 ---
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
