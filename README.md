@@ -7,7 +7,7 @@
 I’m a Full Stack Developer passionate about technology, creative problem solving, and building scalable digital solutions. I enjoy working with clean architecture, modern frameworks, and tools that enhance code quality and developer experience.
 
 - 🎓 Software Engineering Student – Católica SC  
-- 💼 Support Analyst Pleno I @ Movtech Systems  
+- 💼 Desenvolvedor Full Stack 
 - 🚀 Tech Stack: **React, Next.js, TypeScript, C#, .NET, PostgreSQL, Docker**
 
 ---
