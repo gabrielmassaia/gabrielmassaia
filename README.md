@@ -2,7 +2,7 @@
 
 ---
 
-### 👨‍💻 About Me
+###                                                                                 👨‍💻 About Me
 
 I’m a Full Stack Developer passionate about technology, creative problem solving, and building scalable digital solutions. I enjoy working with clean architecture, modern frameworks, and tools that enhance code quality and developer experience.
 
@@ -12,7 +12,7 @@ I’m a Full Stack Developer passionate about technology, creative problem solvi
 
 ---
 
-### 🛠️ Tech Stack
+###                                                                                🛠️ Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,next,ts,nodejs,nest,dotnet,cs,postgres,docker,git,github,figma,linux" />
@@ -20,7 +20,7 @@ I’m a Full Stack Developer passionate about technology, creative problem solvi
 
 ---
 
-### 📊 GitHub Stats
+###                                                                              📊 GitHub Stats
 
 <div align="center">  
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=gabrielmassaia&show_icons=true&theme=github_dark&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&hide_border=true"/>
@@ -29,7 +29,7 @@ I’m a Full Stack Developer passionate about technology, creative problem solvi
 
 ---
 
-### 📫 Contact Me
+###                                                                             📫 Contact Me
 
 <p align="center">
   <a href="mailto:gabrielmassaia50@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" /></a>
