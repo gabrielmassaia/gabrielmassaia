@@ -20,15 +20,6 @@ I’m a Full Stack Developer passionate about technology, creative problem solvi
 
 ---
 
-###                                                                              📊 GitHub Stats
-
-<div align="center">  
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=gabrielmassaia&show_icons=true&theme=github_dark&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&hide_border=true"/>
-  <img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmassaia&layout=compact&theme=github_dark&title_color=00bfbf&text_color=00bfbf&hide_border=true"/>
-</div>
-
----
-
 ###                                                                             📫 Contact Me
 
 <p align="center">
