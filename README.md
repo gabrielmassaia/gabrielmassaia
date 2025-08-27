@@ -10,8 +10,6 @@ I’m a Full Stack Developer passionate about technology, creative problem solvi
 
 ---
 
-###                                                                                🛠️ Tech Stack
-
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,next,ts,nodejs,dotnet,python,postgres,docker,git,github,figma,linux" />
 </p>
