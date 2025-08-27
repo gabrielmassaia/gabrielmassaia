@@ -2,8 +2,6 @@
 
 ---
 
-###                                                                                 👨‍💻 About Me
-
 I’m a Full Stack Developer passionate about technology, creative problem solving, and building scalable digital solutions. I enjoy working with clean architecture, modern frameworks, and tools that enhance code quality and developer experience.
 
 - 🎓 Software Engineering Student – Católica SC  
@@ -19,8 +17,6 @@ I’m a Full Stack Developer passionate about technology, creative problem solvi
 </p>
 
 ---
-
-###                                                                             📫 Contact Me
 
 <p align="center">
   <a href="mailto:gabrielmassaia50@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" /></a>
