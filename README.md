@@ -6,7 +6,7 @@ I’m a Full Stack Developer passionate about technology, creative problem solvi
 
 - 🎓 Software Engineering Student – Católica SC  
 - 💼 FullStack Developer
-- 🚀 Tech Stack: **React, Next.js, TypeScript, C#, .NET, PostgreSQL, Docker**
+- 🚀 Tech Stack: **React, Next.js, TypeScript, Python, PostgreSQL, Docker**
 
 ---
 
