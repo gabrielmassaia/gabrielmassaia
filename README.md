@@ -11,7 +11,7 @@ I’m a Full Stack Developer passionate about technology, creative problem solvi
 ---
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,next,ts,nodejs,python,postgres,docker,git,github,figma,linux,django" />
+  <img src="https://skillicons.dev/icons?i=react,next,ts,nodejs,python,django,postgres,docker,git,github,figma,linux" />
 </p>
 
 ---
