@@ -11,7 +11,7 @@ Creative problem solving, and building scalable digital solutions. I enjoy worki
 ---
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,next,ts,nodejs,python,django,dotnet,C#,postgres,docker,git,github,figma,linux" />
+  <img src="https://skillicons.dev/icons?i=react,next,ts,nodejs,python,django,dotnet,csharp,postgres,docker,git,github,figma,linux" />
 </p>
 
 ---
