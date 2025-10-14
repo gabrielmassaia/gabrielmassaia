@@ -2,16 +2,16 @@
 
 ---
 
-I’m a Full Stack Developer passionate about technology, creative problem solving, and building scalable digital solutions. I enjoy working with clean architecture, modern frameworks, and tools that enhance code quality and developer experience.
+Creative problem solving, and building scalable digital solutions. I enjoy working with clean architecture, modern frameworks, and tools that enhance code quality and developer experience.
 
 - 🎓 Software Engineering Student – Católica SC  
-- 💼 FullStack Developer
-- 🚀 Tech Stack: **React, Next.js, TypeScript, Python, PostgreSQL, Docker**
+- 💼 Software Engineer
+- 🚀 Tech Stack: **React, Next.js, TypeScript, Python, Django, C# PostgreSQL, Docker**
 
 ---
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,next,ts,nodejs,python,django,postgres,docker,git,github,figma,linux" />
+  <img src="https://skillicons.dev/icons?i=react,next,ts,nodejs,python,django,dotnet,C#,postgres,docker,git,github,figma,linux" />
 </p>
 
 ---
