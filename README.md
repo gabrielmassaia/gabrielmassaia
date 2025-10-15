@@ -1,5 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00bfbf&size=30&center=true&vCenter=true&width=1000&lines=Hi+there!;Welcome+to+my+GitHub!)](https://git.io/typing-svg)
-
 ---
 
 Creative problem solving, and building scalable digital solutions. I enjoy working with clean architecture, modern frameworks, and tools that enhance code quality and developer experience.
