@@ -1,5 +1,3 @@
----
-
 Creative problem solving, and building scalable digital solutions. I enjoy working with clean architecture, modern frameworks, and tools that enhance code quality and developer experience.
 
 - 🎓 Software Engineering Student – Católica SC  
