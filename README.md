@@ -1,7 +1,7 @@
 Creative problem solving, and building scalable digital solutions. I enjoy working with clean architecture, modern frameworks, and tools that enhance code quality and developer experience.
 
 - 🎓 Software Engineering Student – Católica SC  
-- 💼 Software Engineer
+- 💼 Full Stack Web Developer
 - 🚀 Tech Stack: **React, Next.js, TypeScript, Python, Django, C# PostgreSQL, Docker**
 
 ---
