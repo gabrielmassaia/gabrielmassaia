@@ -1,8 +1,14 @@
-Creative problem solving, and building scalable digital solutions. I enjoy working with clean architecture, modern frameworks, and tools that enhance code quality and developer experience.
+<h1 align="center">Gabriel Massaia</h1>
 
--  Software Engineering Student – Católica SC  
--  Full Stack Web Developer
--  Tech Stack: **React, Next.js, TypeScript, Python, Django, C# PostgreSQL, Docker**
+<p align="center">
+  Creative problem solving and scalable digital solutions.<br/>
+  Clean Architecture · Modern Frameworks · Developer Experience
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Software%20Engineering-Católica%20SC-%23333?style=flat-square" />
+  <img src="https://img.shields.io/badge/Full%20Stack-Developer-%23333?style=flat-square" />
+</p>
 
 ---
 
@@ -19,3 +25,8 @@ Creative problem solving, and building scalable digital solutions. I enjoy worki
 </p>
 
 ---
+
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" />
+</div>
