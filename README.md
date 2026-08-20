@@ -13,7 +13,7 @@
 ---
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,next,vue,ts,nodejs,python,django,dotnet,laravel,go,postgres,mysql,docker,figma,linux" />
+  <img src="https://skillicons.dev/icons?i=react,next,vue,ts,nodejs,nest,python,django,dotnet,laravel,go,postgres,mysql,docker,figma,linux" />
 </p>
 
 ---
