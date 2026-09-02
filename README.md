@@ -1,4 +1,4 @@
-<h1 align="center">Gabriel Massaia</h1>
+<h1 align="center">Gabriel Massaia de Oliveira</h1>
 
 <p align="center">
   Creative problem solving and scalable digital solutions.<br/>
