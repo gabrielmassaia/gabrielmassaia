@@ -2,7 +2,7 @@
 
 <p align="center">
   Creative problem solving and scalable digital solutions.<br/>
-  Clean Architecture · Modern Frameworks · Developer Experience
+  Clean Architecture · SOLID · Domain Driven Design
 </p>
 
 <p align="center">
