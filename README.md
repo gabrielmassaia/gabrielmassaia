@@ -28,5 +28,5 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=gabrielmassaia&theme=tokyonight&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmassaia&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" />
+username=gabrielmassaia&layout=compact&langs_count=7&theme=tokyonight&hide_border=true" />
 </div>
