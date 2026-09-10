@@ -18,14 +18,6 @@
 
 ---
 
-<p align="center">
-  <a href="mailto:gabrielmassaia50@gmail.com"><img src="https://img.shields.io/badge/Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/gabriel-massaia-8710b1222/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://instagram.com/gbmassaia" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-</p>
-
----
-
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=gabrielmassaia&theme=tokyonight&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D" />
 </div>
